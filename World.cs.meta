@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2cb693d22e078467c9de6bcd19007402
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - textureAtlas: {fileID: 2100000, guid: 0beff685461bd4744bc433ab1599a347, type: 2}
+  - fluidTexture: {instanceID: 0}
+  - buildProgress: {instanceID: 0}
+  - buildCam: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
